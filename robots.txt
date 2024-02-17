@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://erinkadwood.com/sitemap.xml

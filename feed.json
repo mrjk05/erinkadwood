@@ -1,0 +1,162 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ERIN KADWOOD",
+    "description": "",
+    "home_page_url": "https://erinkadwood.com",
+    "feed_url": "https://erinkadwood.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Erin"
+    },
+    "items": [
+        {
+            "id": "https://erinkadwood.com/services.html",
+            "url": "https://erinkadwood.com/services.html",
+            "title": "SERVICES",
+            "summary": "CREATIVE DIRECTOR I offer creative direction services for fashion brands and projects&hellip;",
+            "content_html": "<h2><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://erinkadwood.com/media/posts/47/42136054-CE03-464E-BB17-B19F45EE179C-Jins-Kadwood.jpg\" alt=\"\" width=\"666\" height=\"1000\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://erinkadwood.com/media/posts/47/responsive/42136054-CE03-464E-BB17-B19F45EE179C-Jins-Kadwood-xs.jpg 300w ,https://erinkadwood.com/media/posts/47/responsive/42136054-CE03-464E-BB17-B19F45EE179C-Jins-Kadwood-sm.jpg 480w ,https://erinkadwood.com/media/posts/47/responsive/42136054-CE03-464E-BB17-B19F45EE179C-Jins-Kadwood-md.jpg 768w ,https://erinkadwood.com/media/posts/47/responsive/42136054-CE03-464E-BB17-B19F45EE179C-Jins-Kadwood-lg.jpg 1024w\"></figure></h2>\n<h2>CREATIVE DIRECTOR</h2>\n<p>I offer creative direction services for fashion brands and projects including art direction, concept development, styling, and creative consulting.</p>\n<h2>FASHION CONSULTING</h2>\n<p>Work with me, an expert fashion consultant, to develop your unique style and get personalised advice on building your dream wardrobe.</p>\n<h2>PERSONAL &amp; CORPORATE FASHION STYLING</h2>\n<p>I will work closely with you as your personal stylist to curate a wardrobe that perfectly suits your body, lifestyle and preferences.</p>\n<h2>BESPOKE GARMENT CREATION</h2>\n<p>I create one-of-a-kind garments made just for you, tailored to fit your body perfectly.</p>\n<h2>PATTERN DESIGN</h2>\n<p>I design custom patterns sized specifically to your measurements to create perfectly fitted garments.</p>\n<h2>FASHION ADVICE</h2>\n<p>Get personalised fashion advice from me as an industry expert to improve your style, dress for your body type, and build confidence.</p>\n<h2>MEDIA &amp; GENERAL ENQUIRES</h2>\n<p>Members of the media, please contact me here regarding partnerships, interviews, or other press-related requests.</p>\n<p> </p>\n<p><a href=\"https://www.instagram.com/erin.kadwood/\" target=\"_blank\" rel=\"noopener noreferrer\"> <button>Send Message</button> </a></p>",
+            "author": {
+                "name": "Erin"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-17T15:45:19+11:00",
+            "date_modified": "2024-02-17T16:20:39+11:00"
+        },
+        {
+            "id": "https://erinkadwood.com/editorial-18.html",
+            "url": "https://erinkadwood.com/editorial-18.html",
+            "title": "EDITORIAL 18",
+            "image": "https://erinkadwood.com/media/posts/46/MERCI_ERIN_TESTS_FINAL-150.jpg",
+            "author": {
+                "name": "Erin"
+            },
+            "tags": [
+                   "Styling",
+                   "Editorial"
+            ],
+            "date_published": "2024-02-17T14:51:20+11:00",
+            "date_modified": "2024-02-17T14:51:20+11:00"
+        },
+        {
+            "id": "https://erinkadwood.com/editorial-17.html",
+            "url": "https://erinkadwood.com/editorial-17.html",
+            "title": "EDITORIAL 17",
+            "image": "https://erinkadwood.com/media/posts/45/MERCI_ERIN_TESTS_FINAL-143.jpg",
+            "author": {
+                "name": "Erin"
+            },
+            "tags": [
+                   "Styling",
+                   "Editorial"
+            ],
+            "date_published": "2024-02-17T14:50:54+11:00",
+            "date_modified": "2024-02-17T14:50:54+11:00"
+        },
+        {
+            "id": "https://erinkadwood.com/editorial-16.html",
+            "url": "https://erinkadwood.com/editorial-16.html",
+            "title": "EDITORIAL 16",
+            "image": "https://erinkadwood.com/media/posts/44/MERCI_ERIN_TESTS_FINAL-139.jpg",
+            "author": {
+                "name": "Erin"
+            },
+            "tags": [
+                   "Styling",
+                   "Editorial"
+            ],
+            "date_published": "2024-02-17T14:50:37+11:00",
+            "date_modified": "2024-02-17T14:50:37+11:00"
+        },
+        {
+            "id": "https://erinkadwood.com/editorial-15.html",
+            "url": "https://erinkadwood.com/editorial-15.html",
+            "title": "EDITORIAL 15",
+            "image": "https://erinkadwood.com/media/posts/43/MERCI_ERIN_TESTS_FINAL-110.jpg",
+            "author": {
+                "name": "Erin"
+            },
+            "tags": [
+                   "Styling",
+                   "Editorial"
+            ],
+            "date_published": "2024-02-17T14:50:18+11:00",
+            "date_modified": "2024-02-17T14:50:18+11:00"
+        },
+        {
+            "id": "https://erinkadwood.com/editorial-14.html",
+            "url": "https://erinkadwood.com/editorial-14.html",
+            "title": "EDITORIAL 14",
+            "image": "https://erinkadwood.com/media/posts/42/MERCI_ERIN_TESTS_FINAL-101.jpg",
+            "author": {
+                "name": "Erin"
+            },
+            "tags": [
+                   "Styling",
+                   "Editorial"
+            ],
+            "date_published": "2024-02-17T14:50:04+11:00",
+            "date_modified": "2024-02-17T14:50:04+11:00"
+        },
+        {
+            "id": "https://erinkadwood.com/editorial-13.html",
+            "url": "https://erinkadwood.com/editorial-13.html",
+            "title": "EDITORIAL 13",
+            "image": "https://erinkadwood.com/media/posts/41/MERCI_ERIN_TESTS_FINAL-93.jpg",
+            "author": {
+                "name": "Erin"
+            },
+            "tags": [
+                   "Styling",
+                   "Editorial"
+            ],
+            "date_published": "2024-02-17T14:49:47+11:00",
+            "date_modified": "2024-02-17T14:49:47+11:00"
+        },
+        {
+            "id": "https://erinkadwood.com/editorial-12.html",
+            "url": "https://erinkadwood.com/editorial-12.html",
+            "title": "EDITORIAL 12",
+            "image": "https://erinkadwood.com/media/posts/40/MERCI_ERIN_TESTS_FINAL-86.jpg",
+            "author": {
+                "name": "Erin"
+            },
+            "tags": [
+                   "Styling",
+                   "Editorial"
+            ],
+            "date_published": "2024-02-17T14:49:32+11:00",
+            "date_modified": "2024-02-17T14:49:32+11:00"
+        },
+        {
+            "id": "https://erinkadwood.com/editorial-11.html",
+            "url": "https://erinkadwood.com/editorial-11.html",
+            "title": "EDITORIAL 11",
+            "image": "https://erinkadwood.com/media/posts/39/MERCI_ERIN_TESTS_FINAL-82.jpg",
+            "author": {
+                "name": "Erin"
+            },
+            "tags": [
+                   "Styling",
+                   "Editorial"
+            ],
+            "date_published": "2024-02-17T14:48:42+11:00",
+            "date_modified": "2024-02-17T14:49:13+11:00"
+        },
+        {
+            "id": "https://erinkadwood.com/photography-1.html",
+            "url": "https://erinkadwood.com/photography-1.html",
+            "title": "PHOTOGRAPHY 1",
+            "image": "https://erinkadwood.com/media/posts/38/MVIMG_20180918_095612_Original.jpg",
+            "author": {
+                "name": "Erin"
+            },
+            "tags": [
+                   "Editorial",
+                   "Artwork"
+            ],
+            "date_published": "2024-02-17T14:48:06+11:00",
+            "date_modified": "2024-02-17T14:48:06+11:00"
+        }
+    ]
+}
